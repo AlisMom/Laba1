@@ -30,7 +30,7 @@ namespace LAB1B
                     }
                     catch
                     {
-                    MessageBox.Show("Неверный формат числа       ");
+                    MessageBox.Show("Неверные формат числа       ");
                     textBox1.Clear();
                     textBox1.Focus();
                     }
