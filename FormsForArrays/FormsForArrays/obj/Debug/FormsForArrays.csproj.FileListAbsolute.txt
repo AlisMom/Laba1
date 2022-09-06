@@ -1,0 +1,30 @@
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.exe.config
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.exe
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.pdb
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csprojAssemblyReference.cache
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.Form1.resources
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.Properties.Resources.resources
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csproj.GenerateResource.cache
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csproj.CoreCompileInputs.cache
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.exe
+E:\Колледж\МДК 01.01 РПМ\Лабы\Лаба 5\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.pdb
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.exe.config
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.exe
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.pdb
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csprojAssemblyReference.cache
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.Form1.resources
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.Properties.Resources.resources
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csproj.GenerateResource.cache
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csproj.CoreCompileInputs.cache
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.exe
+C:\Users\Горыныч\Desktop\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.pdb
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.exe.config
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.exe
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\bin\Debug\FormsForArrays.pdb
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csprojAssemblyReference.cache
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.Form1.resources
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.Properties.Resources.resources
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csproj.GenerateResource.cache
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.csproj.CoreCompileInputs.cache
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.exe
+D:\предметы\с# мдк\ЛАБ5\FormsForArrays\FormsForArrays\FormsForArrays\obj\Debug\FormsForArrays.pdb

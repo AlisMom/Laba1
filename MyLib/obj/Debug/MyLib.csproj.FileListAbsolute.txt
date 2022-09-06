@@ -1,0 +1,11 @@
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyLib\bin\Debug\MyLib.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyLib\bin\Debug\MyLib.pdb
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.pdb
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyLib\bin\Debug\MyLib.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyLib\bin\Debug\MyLib.pdb
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyLib\obj\Debug\MyLib.pdb

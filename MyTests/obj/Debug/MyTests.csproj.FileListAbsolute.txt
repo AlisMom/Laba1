@@ -1,0 +1,38 @@
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\MyTests.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\MyTests.pdb
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\MyLib.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\MyLib.pdb
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.csprojAssemblyReference.cache
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.csproj.CoreCompileInputs.cache
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.csproj.CopyComplete
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.dll
+C:\Users\Горыныч\Desktop\Работа\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.pdb
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\MyTests.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\MyTests.pdb
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\MyLib.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\MyLib.pdb
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.csprojAssemblyReference.cache
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.csproj.CoreCompileInputs.cache
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.csproj.CopyComplete
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.dll
+D:\предметы\с# мдк\ЛАБ7\Dlya_Alisy_Laba_7_rar\Для Алисы Лаба 7\MyTests\obj\Debug\MyTests.pdb
