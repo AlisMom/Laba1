@@ -40,7 +40,9 @@ namespace FormsForArrays
                 //присваивание заголовка и результата вычислений результирующей строке
                 res = "Количество отрицательных элементов массива равно= " + Convert.ToString(countNeg(arr)); 
             }
-            else if (RadioButton4.Checked) //выбор метода 2
+            else if (RadioButton4.Checked) //выбор метода 2 jghygjhgh
+
+
             {
                 //присваивание заголовка и результата вычислений результирующей строке
                 res = "Сумма модулей элементов массива, расположенных\nпосле минимального по модулю элемента= " + Convert.ToString(sumAbsAfterMinAbs(arr));
@@ -56,14 +58,14 @@ namespace FormsForArrays
                     DataGridView1.Columns[i].Name = Convert.ToString(i);
                     DataGridView1.Rows[1].Cells[i].Value = Convert.ToString(resLst.GetValue(i));
                 }
-                res = "Массив отсортирован: ";
+                res = "Массив отсортирован: aaaaaaaaaa";
             }
             else //если пользователь не выбрал метод вычислений
             {
                 res = "Выберите действие: ";
             }
 
-            Label1.Text = res; //вывод результирующей строки в компонент интерфейса
+            Label1.Text = res; //вывод результирующей строки в компонент интерфейса   
         }
         private Array getArrayFromData(DataGridViewRow Row)
         {
